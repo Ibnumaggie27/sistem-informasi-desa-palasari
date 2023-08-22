@@ -49,8 +49,8 @@
 <body style="margin: 0px 10px;">
    
     <!-- Kop Surat -->
-    <div align="center" style="border-bottom: 2px solid #000000; padding-bottom: 20px; margin-top: -60px !important">
-        <img src="https://raw.githubusercontent.com/Ibnumaggie27/sistem-informasi-desa/main/public/img/kelahiran.png" width="90%" alt="">
+    <div align="center" style="border-bottom: 2px solid #000000; padding-bottom: 20px; margin-top: -50px !important">
+        <img src="https://raw.githubusercontent.com/Ibnumaggie27/sistem-informasi-desa-palasari/main/public/img/kopsurat.png" width="90%" alt="">
     </div>
 
     <!-- No. Kode Desa -->
@@ -107,7 +107,7 @@
             </tr>
             <tr>
                 <td width="37%" class="fs-1">Tanggal</td>
-                <td class="fs-1"> : {{ $surat->tanggal }}</td>
+                <td class="fs-1"> : {{ date('d-m-Y', strtotime($surat->tanggal)) }}</td>
             </tr>
             <tr>
                 <td width="37%" class="fs-1">Tempat Kelahiran</td>
@@ -220,11 +220,11 @@
     <!-- Tanda Tangan -->
     <div style="width: 100%; margin-top: 20px;">
         <div align="center" style="width: 200px; position: relative; right: -30em" class="fs-1">
-            <p>Semerak, {{ \Carbon\Carbon::now()->isoFormat('D MMMM Y') }}</p>
-            <p style="margin-top: -10px !important">Kepala Desa Sumerak</p>
-            <img style="margin-top: -2em !important" src="https://user-images.githubusercontent.com/80609220/232229954-3db86399-39da-41ed-aeb4-f3bf7ee83198.png" width="230" alt="">
+            <p>Palasari, {{ \Carbon\Carbon::now()->isoFormat('D MMMM Y') }}</p>
+            <p style="margin-top: -10px !important">Kepala Desa Palasari</p>
+            <img style="margin-top: -2em !important" src="https://raw.githubusercontent.com/Ibnumaggie27/sistem-informasi-desa-palasari/main/public/img/ttd.png" width="230" alt="">
             
-            <p style="margin-top: -30px !important">KUMARIYAH, S.Pd.MSi</p>
+            <p style="margin-top: -30px !important">H.Ridwan.SH</p>
         </div>
     </div>
 </body>

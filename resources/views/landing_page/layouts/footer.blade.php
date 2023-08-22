@@ -16,11 +16,10 @@
                         <div class="">
                             <div class="list-space">
                                 <h4>Kontak Kami</h4>
-                                <p class="lh-lg">Kantor Pemerintahan desa berlokasi di RT 04 RW 01 Desa Palasari.
-                                    Kode Pos 43263.</p>
-                                <p class="lh-lg"><i class="fa-solid fa-phone"></i> 02632957071 <br> <i
-                                        class="fa-solid fa-envelope"></i>
-                                    desapalasari004@gmail.com</p>
+                                <p class="lh-lg">Kantor Pemerintahan desa berlokasi di KP Pengkolan RT 003 RW 002 Desa Palasari.
+                                    Kode Pos 43253.</p>
+                                <p class="lh-lg"><i class="fa-solid fa-phone"></i> 0263 2950841 <br> <i class="fa-brands fa-facebook"></i>
+                                    Pemdes Palasari</p>
 
                             </div>
                         </div>

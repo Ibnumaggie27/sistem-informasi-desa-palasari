@@ -7,7 +7,7 @@
         <div id="carouselExampleControls" class="carousel slide carousel-fade" data-bs-ride="carousel">
             <div class="carousel-inner">
                 <div class="carousel-item active">
-                    <img src="{{ asset('img/landing-page/carousel-1.png') }}" class="d-block w-100 c-img" alt="...">
+                    <img src="{{ asset('img/landing-page/c1j.jpg') }}" class="d-block w-100 c-img" alt="...">
                     <div class="carousel-caption carousel-caption-1">
                         <h1>SISTEM INFORMASI</h5>
                             <h3>DESA PALASARI <br> KABUPATEN CIANJUR</h3>
@@ -15,14 +15,14 @@
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img src="{{ asset('img/landing-page/carousel-2.png') }}" class="d-block w-100 c-img" alt="...">
+                    <img src="{{ asset('img/landing-page/c2j.jpg') }}" class="d-block w-100 c-img" alt="...">
                     <div class="carousel-caption carousel-caption-2">
                         <h1>PENGAJUAN SURAT ONLINE</h5>
                             <p>Pengajuan surat secara online mempermudah, cepat, efisien, dan modern.</p>
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img src="{{ asset('img/landing-page/carousel-3.jpg') }}" class="d-block w-100 c-img" alt="...">
+                    <img src="{{ asset('img/landing-page/c3j.jpg') }}" class="d-block w-100 c-img" alt="...">
                     <div class="carousel-caption carousel-caption-2">
                         <h1>AKSES INFORMASI <br> TERBARU</h5>
                             <p>Akses informasi desa terbaru memberikan warga kemudahan dalam memperoleh data vital dan peristiwa lokal. Melalui platform online, penduduk dapat mengetahui proyek, acara, dan kebijakan pemerintah setempat.</p>
@@ -57,7 +57,7 @@
                         </p>
                 </div>
                 <div class="col-md-6 text-center align-self-center">
-                    <img src="./img/landing-page/about-us.jpg" width="90%"
+                    <img src="./img/landing-page/hmrj.jpg" width="90%"
                         alt="Tentang Desa Semerak | Petani Desa Semarak">
                 </div>
             </div>
@@ -73,7 +73,7 @@
         <div id="body" class="container pb-5">
             <div class="row">
                 <div class="col-md-6 text-center align-self-center">
-                    <img src="{{ asset('img/landing-page/misi.png') }}" width="90%"
+                    <img src="{{ asset('img/landing-page/visimisi.png') }}" width="90%"
                         alt="Tentang Desa Semerak | Petani Desa Semarak">
                 </div>
                 <div class="col-md-6 align-self-center px-3 mt-5 mt-lg-0">
@@ -117,7 +117,7 @@
             <div class="row">
                 <div class="col-md-6 text-center align-self-center">
                     <iframe
-                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15849.896895340826!2d107.03309990000001!3d-6.711834!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69b3dd2700793b%3A0x67c8377c1e4b97a0!2sPalasari%2C%20Kec.%20Cipanas%2C%20Kabupaten%20Cianjur%2C%20Jawa%20Barat!5e0!3m2!1sid!2sid!4v1690803023447!5m2!1sid!2sid" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade">
+                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3962.4224179847984!2d107.03244507462495!3d-6.718196365684395!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69b3c15cf56f1b%3A0x321b4a4d7a9721a9!2sKantor%20Desa%20Palasari!5e0!3m2!1sid!2sid!4v1692723106353!5m2!1sid!2sid" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade">
                         width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"
                         referrerpolicy="no-referrer-when-downgrade"></iframe>
                 </div>

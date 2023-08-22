@@ -28,8 +28,8 @@
     <div id="header-contact" class="bg-primary-2 text-white">
         <div class="container">
             <p class="py-3">
-                <i class="fa-solid fa-phone"></i> 085724810620 | <i class="fa-solid fa-envelope"></i>
-                mgiebet@gmail.com
+                <i class="fa-solid fa-phone"></i> 0263 2950841 | <i class="fa-brands fa-facebook"></i>
+                Pemdes Palasari
             </p>
         </div>
     </div>

@@ -42,6 +42,7 @@
         .text-uppercase {
             text-transform: uppercase;
         }
+        
     </style>
 </head>
 
@@ -50,7 +51,7 @@
 
     <!-- Kop Surat -->
     <div align="center" style="border-bottom: 2px solid #000000; padding-bottom: 20px; margin-top: -60px !important">
-        <img src="https://user-images.githubusercontent.com/80609220/232207469-306c87a9-e1d1-489b-8560-33789fbe1abf.png" width="100%" alt="">
+        <img src="https://raw.githubusercontent.com/Ibnumaggie27/sistem-informasi-desa-palasari/main/public/img/kopsurat.png" width="100%" alt="">
     </div>
 
     <!-- No. Kode Desa -->
@@ -173,11 +174,11 @@
     <!-- Tanda Tangan -->
     <div style="width: 100%;">
         <div align="center" style="width: 200px; position: relative; right: -30em" class="fs-1">
-            <p>Semerak, {{ \Carbon\Carbon::now()->isoFormat('D MMMM Y') }}</p>
-            <p style="margin-top: -10px !important">Kepala Desa Sumerak</p>
-            <img style="margin-top: -2em !important" src="https://user-images.githubusercontent.com/80609220/232229954-3db86399-39da-41ed-aeb4-f3bf7ee83198.png" width="230" alt="">
+            <p>Palasari, {{ \Carbon\Carbon::now()->isoFormat('D MMMM Y') }}</p>
+            <p style="margin-top: -10px !important">Kepala Desa Palasari</p>
+            <img style="margin-top: -4.5em !important" src="https://raw.githubusercontent.com/Ibnumaggie27/sistem-informasi-desa-palasari/main/public/img/ttd.png" width="230" alt="">
             
-            <p style="margin-top: -30px !important">KUMARIYAH, S.Pd.MSi</p>
+            <p style="margin-top: -30px !important">H.Ridwan.SH</p>
         </div>
     </div>
 </body>
